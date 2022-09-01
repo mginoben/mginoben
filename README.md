@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gino Ben Magsino
-- 🏫 Student in University of Makati
+- 🏫 Student at University of Makati
 - 💻 Currently taking BS in Computational and Data Science
 - 🤔 New to github tho
 
